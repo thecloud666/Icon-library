@@ -3,6 +3,10 @@
   "description": "在原作者Softlyx的基础上新增,图标按照服名或群名命名,按照A-Z排列,方便查找。",
   "icons": [
     {
+      "name": "105",
+      "url": "https://raw.githubusercontent.com/thecloud666/icon-library/main/YUAN/105.png"
+    },
+    {
       "name": "404 Not Found",
       "url": "https://raw.githubusercontent.com/thecloud666/icon-library/main/YUAN/404NotFound.png"
     },

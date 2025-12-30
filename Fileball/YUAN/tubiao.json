@@ -829,6 +829,10 @@
     {
       "name": "SaturDay",
       "url": "https://raw.githubusercontent.com/thecloud666/icon-library/main/Fileball/YUAN/SaturDay.png"
+    },
+    {
+      "name": "SaturDayLite",
+      "url": "https://raw.githubusercontent.com/thecloud666/icon-library/main/Fileball/YUAN/SaturDayLite.png"
     }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "Emby图标库(圆)",
+  "description": "在原作者Softlyx的基础上新增,图标按照服名或群名命名,按照A-Z排列,方便查找，同时感谢@baiitang。",
+  "icons": [
+    {
+      "name": "9club",
+      "url": "https://raw.githubusercontent.com/thecloud666/icon-library/main/Fileball/YUAN/9club.png"
+    }
+  ]
+}
